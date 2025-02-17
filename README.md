@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mm27958cvbkte64f?svg=true)](https://ci.appveyor.com/project/Juliyap2887/card-patterns-2)
